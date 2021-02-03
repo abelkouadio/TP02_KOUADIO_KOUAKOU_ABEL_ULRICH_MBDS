@@ -43,6 +43,11 @@ public class User {
         this.id = createUserId(login);
     }
 
+    public User(String login, String login0, String nom, String prenom) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+ 
     public void setFirstname(String firstname) {
         this.firstname = firstname;
     }

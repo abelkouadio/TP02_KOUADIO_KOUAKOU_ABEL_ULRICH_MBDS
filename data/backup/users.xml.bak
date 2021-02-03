@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <users>
     <user>
+        <id>fgandonnewd</id>
+        <login>fgandonnewd</login>
+        <lastname>Gandonnew</lastname>
+        <firstname>Fabiennew</firstname>
+    </user>
+    <user>
+        <id>flimpensnew</id>
+        <login>flimpensnew</login>
+        <lastname>Limpens</lastname>
+        <firstname>Freddy</firstname>
+    </user>
+    <user>
+        <id>gereteo</id>
+        <login>gereteo</login>
+        <lastname>Erétéo</lastname>
+        <firstname>Guillaume</firstname>
+    </user>
+    <user>
         <id>ndelaforge</id>
         <login>ndelaforge</login>
         <lastname>Delaforge</lastname>
@@ -137,17 +155,5 @@
         <login>AxelKarimou</login>
         <lastname>karimou</lastname>
         <firstname>Axel</firstname>
-    </user>
-    <user>
-        <id>abel</id>
-        <login>abel</login>
-        <lastname>kouadio</lastname>
-        <firstname>abel</firstname>
-    </user>
-    <user>
-        <id>de+versailles</id>
-        <login>de versailles</login>
-        <lastname>toure</lastname>
-        <firstname>de porc</firstname>
     </user>
 </users>
